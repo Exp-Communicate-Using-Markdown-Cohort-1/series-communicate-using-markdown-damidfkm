@@ -19,3 +19,9 @@ A task list creates checkboxes to check off. They're very useful for tracking is
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+
+# More Example
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
