@@ -10,3 +10,12 @@ Commit changed
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+# TASK LIST
+# What is a task list? 
+
+A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. 
+
+# Example
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
